@@ -1,1 +1,0 @@
-instagram-scraper --location 1433292443399033 --comments --latest -u pedrospim -p bolinha09 --media-metadata --media-types none --include-location --retry-forever --maximum 500
